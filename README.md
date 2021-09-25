@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan</h1>
-<h3 align="center">I'm aspiring Full Stack Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 <!--
 ## 🙋‍♂️ About Me
@@ -43,15 +43,15 @@
 
 <p align="center">
     <a href="https://github.com/karandesai24/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karandesai24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Karan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karandesai24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/karandesai24/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karandesai24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/karandesai24/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karandesai24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/karandesai24/github-readme-stats"><img alt="Karan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karandesai24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/karandesai24/github-readme-stats"><img alt="Karan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karandesai24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/karandesai24/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karandesai24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/karandesai24/github-readme-activity-graph"><img alt="Karan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karandesai24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
