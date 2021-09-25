@@ -71,7 +71,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Github Views and Followers
 <a href="https://github.com/karandesai24/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=karandesai24">
 </a>
