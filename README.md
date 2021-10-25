@@ -1,10 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="50%" height="60%" src="https://user-images.githubusercontent.com/78134745/138696911-d01c92bb-4ba1-4bfa-8d9e-477ade7dbc20.gif" height="175px" align="right"/></a>
+<h1 >Hello,I'm karan <img  width="5%" height="7%" src="https://user-images.githubusercontent.com/78134745/138698299-df8b4961-53b4-4181-9143-0b50fb433b9f.gif"> </h1> 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+## Aspiring Full Stack Web Developer
 
 <!--
-## 🙋‍♂️ About Me
+ 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
@@ -18,8 +18,8 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 -->
-
-## 🚀 Languages and Tools:
+<br> </br>
+### 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://icons8.com/icon/40670/c-programming"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
