@@ -32,8 +32,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/40/000000/javascript.png"/> </a> 
     <a href="https://icons8.com/icon/fAMVO_fuoOuC/php-logo"> <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://icons8.com/icon/qV-JzWYl9dzP/django"> 
-s://img.icons8.com/color/48/000000/django.png"/> </a>&nbsp;
+    <a href="https://icons8.com/icon/qV-JzWYl9dzP/django"> <img src="http://img.icons8.com/color/48/000000/django.png"/> </a>&nbsp;
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> &nbsp;
     <a href="https://icons8.com/icon/9nLaR5KFGjN0/mysql-logo"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>&nbsp;
