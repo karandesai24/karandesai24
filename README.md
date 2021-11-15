@@ -3,6 +3,9 @@
 
 ## Aspiring Full Stack Web Developer
 
+![express-js](https://user-images.githubusercontent.com/78134745/141762162-15b5d09d-6434-4297-8269-3b1936ef3cce.png)
+
+
 <!--
  🙋‍♂️ About Me
 
@@ -39,6 +42,7 @@ s://img.icons8.com/color/48/000000/django.png"/> </a>&nbsp;
     <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>&nbsp;
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> &nbsp;
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/78134745/141762162-15b5d09d-6434-4297-8269-3b1936ef3cce.png" alt="express-js"/> </a>
     
     <a href="https://icons8.com/icon/62452/firebase"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui">  <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
