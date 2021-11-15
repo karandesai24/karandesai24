@@ -3,9 +3,6 @@
 
 ## Aspiring Full Stack Web Developer
 
-![express-js](https://user-images.githubusercontent.com/78134745/141762162-15b5d09d-6434-4297-8269-3b1936ef3cce.png)
-
-
 <!--
  🙋‍♂️ About Me
 
