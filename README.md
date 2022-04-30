@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 -->
 <br> </br>
-### 🚀 Languages and Tools:
+### Tech Stacks 🚀
 
 <p align="left"> 
     <a href="https://icons8.com/icon/40670/c-programming"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
