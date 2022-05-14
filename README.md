@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 -->
 <br> </br>
-<h2>Tech Stacks</h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px/>
+<h2>Tech Stacks<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px/></h2>
 
 <p align="left"> 
     <a href="https://icons8.com/icon/40670/c-programming"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
