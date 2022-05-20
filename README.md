@@ -1,4 +1,4 @@
-<a href="#"><img width="40%" height="45%" src="https://user-images.githubusercontent.com/78134745/138696911-d01c92bb-4ba1-4bfa-8d9e-477ade7dbc20.gif" align="right"/></a>
+<a href="#"><img width="40%" height="45%" src="https://user-images.githubusercontent.com/78134745/138696911-d01c92bb-4ba1-4bfa-8d9e-477ade7dbc20.gif"/></a>
 <h1 >Hello,I'm karan <img  width="5%" height="7%" src="https://user-images.githubusercontent.com/78134745/138698299-df8b4961-53b4-4181-9143-0b50fb433b9f.gif"> </h1> 
 
 <!--
