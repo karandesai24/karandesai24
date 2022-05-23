@@ -1,5 +1,5 @@
 <h1 >Hello,I'm karan<img  width="5%" height="7%" src="https://user-images.githubusercontent.com/78134745/138698299-df8b4961-53b4-4181-9143-0b50fb433b9f.gif"/> 
-<img  align="right" height="40%" width="80%"src="https://user-images.githubusercontent.com/78134745/138696911-d01c92bb-4ba1-4bfa-8d9e-477ade7dbc20.gif" /></h1>
+<img  align="right" height="33%" width="80%"src="https://user-images.githubusercontent.com/78134745/138696911-d01c92bb-4ba1-4bfa-8d9e-477ade7dbc20.gif" /></h1>
 
 
 <!--
