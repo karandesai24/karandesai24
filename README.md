@@ -1,6 +1,6 @@
-<h1>Hello,I'm Karan<img  width="4%" height="6%" src="https://user-images.githubusercontent.com/78134745/138698299-df8b4961-53b4-4181-9143-0b50fb433b9f.gif"/> </h1>
+<!--<h1>Hello,I'm Karan<img  width="4%" height="6%" src="https://user-images.githubusercontent.com/78134745/138698299-df8b4961-53b4-4181-9143-0b50fb433b9f.gif"/> </h1>
 <img height="240px" src="https://user-images.githubusercontent.com/78134745/138696911-d01c92bb-4ba1-4bfa-8d9e-477ade7dbc20.gif"   />
-
+-->
 
 <!--
  🙋‍♂️ About Me
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 -->
-
+<!--
 <h2>Tech Stacks&nbsp;<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="4%" height="6%"/></h2>
 
 <p align="left"> 
